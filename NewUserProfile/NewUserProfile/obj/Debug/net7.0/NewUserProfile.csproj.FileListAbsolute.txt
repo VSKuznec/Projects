@@ -1,0 +1,15 @@
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\bin\Debug\net7.0\NewUserProfile.exe
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\bin\Debug\net7.0\NewUserProfile.deps.json
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\bin\Debug\net7.0\NewUserProfile.runtimeconfig.json
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\bin\Debug\net7.0\NewUserProfile.dll
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\bin\Debug\net7.0\NewUserProfile.pdb
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\obj\Debug\net7.0\NewUserProfile.csproj.AssemblyReference.cache
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\obj\Debug\net7.0\NewUserProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\obj\Debug\net7.0\NewUserProfile.AssemblyInfoInputs.cache
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\obj\Debug\net7.0\NewUserProfile.AssemblyInfo.cs
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\obj\Debug\net7.0\NewUserProfile.csproj.CoreCompileInputs.cache
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\obj\Debug\net7.0\NewUserProfile.dll
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\obj\Debug\net7.0\refint\NewUserProfile.dll
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\obj\Debug\net7.0\NewUserProfile.pdb
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\obj\Debug\net7.0\NewUserProfile.genruntimeconfig.cache
+C:\Users\admin\Projects\NewUserProfile\NewUserProfile\obj\Debug\net7.0\ref\NewUserProfile.dll

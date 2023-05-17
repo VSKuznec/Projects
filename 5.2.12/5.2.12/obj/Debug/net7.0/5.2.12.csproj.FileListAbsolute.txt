@@ -1,0 +1,15 @@
+C:\Users\admin\Projects\5.2.12\5.2.12\bin\Debug\net7.0\5.2.12.exe
+C:\Users\admin\Projects\5.2.12\5.2.12\bin\Debug\net7.0\5.2.12.deps.json
+C:\Users\admin\Projects\5.2.12\5.2.12\bin\Debug\net7.0\5.2.12.runtimeconfig.json
+C:\Users\admin\Projects\5.2.12\5.2.12\bin\Debug\net7.0\5.2.12.dll
+C:\Users\admin\Projects\5.2.12\5.2.12\bin\Debug\net7.0\5.2.12.pdb
+C:\Users\admin\Projects\5.2.12\5.2.12\obj\Debug\net7.0\5.2.12.csproj.AssemblyReference.cache
+C:\Users\admin\Projects\5.2.12\5.2.12\obj\Debug\net7.0\5.2.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Projects\5.2.12\5.2.12\obj\Debug\net7.0\5.2.12.AssemblyInfoInputs.cache
+C:\Users\admin\Projects\5.2.12\5.2.12\obj\Debug\net7.0\5.2.12.AssemblyInfo.cs
+C:\Users\admin\Projects\5.2.12\5.2.12\obj\Debug\net7.0\5.2.12.csproj.CoreCompileInputs.cache
+C:\Users\admin\Projects\5.2.12\5.2.12\obj\Debug\net7.0\5.2.12.dll
+C:\Users\admin\Projects\5.2.12\5.2.12\obj\Debug\net7.0\refint\5.2.12.dll
+C:\Users\admin\Projects\5.2.12\5.2.12\obj\Debug\net7.0\5.2.12.pdb
+C:\Users\admin\Projects\5.2.12\5.2.12\obj\Debug\net7.0\5.2.12.genruntimeconfig.cache
+C:\Users\admin\Projects\5.2.12\5.2.12\obj\Debug\net7.0\ref\5.2.12.dll

@@ -1,0 +1,15 @@
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\bin\Debug\net7.0\LoopsArrays.exe
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\bin\Debug\net7.0\LoopsArrays.deps.json
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\bin\Debug\net7.0\LoopsArrays.runtimeconfig.json
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\bin\Debug\net7.0\LoopsArrays.dll
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\bin\Debug\net7.0\LoopsArrays.pdb
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\obj\Debug\net7.0\LoopsArrays.csproj.AssemblyReference.cache
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\obj\Debug\net7.0\LoopsArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\obj\Debug\net7.0\LoopsArrays.AssemblyInfoInputs.cache
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\obj\Debug\net7.0\LoopsArrays.AssemblyInfo.cs
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\obj\Debug\net7.0\LoopsArrays.csproj.CoreCompileInputs.cache
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\obj\Debug\net7.0\LoopsArrays.dll
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\obj\Debug\net7.0\refint\LoopsArrays.dll
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\obj\Debug\net7.0\LoopsArrays.pdb
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\obj\Debug\net7.0\LoopsArrays.genruntimeconfig.cache
+C:\Users\admin\Projects\LoopsArrays\LoopsArrays\obj\Debug\net7.0\ref\LoopsArrays.dll
