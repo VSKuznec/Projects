@@ -1,0 +1,15 @@
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\bin\Debug\net7.0\Final project 5.6.exe
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\bin\Debug\net7.0\Final project 5.6.deps.json
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\bin\Debug\net7.0\Final project 5.6.runtimeconfig.json
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\bin\Debug\net7.0\Final project 5.6.dll
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\bin\Debug\net7.0\Final project 5.6.pdb
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\obj\Debug\net7.0\Final project 5.6.csproj.AssemblyReference.cache
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\obj\Debug\net7.0\Final project 5.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\obj\Debug\net7.0\Final project 5.6.AssemblyInfoInputs.cache
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\obj\Debug\net7.0\Final project 5.6.AssemblyInfo.cs
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\obj\Debug\net7.0\Final project 5.6.csproj.CoreCompileInputs.cache
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\obj\Debug\net7.0\Final project 5.6.dll
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\obj\Debug\net7.0\refint\Final project 5.6.dll
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\obj\Debug\net7.0\Final project 5.6.pdb
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\obj\Debug\net7.0\Final project 5.6.genruntimeconfig.cache
+C:\Users\admin\Projects\Final project 5.6\Final project 5.6\obj\Debug\net7.0\ref\Final project 5.6.dll
